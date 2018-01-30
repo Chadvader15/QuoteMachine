@@ -1,0 +1,11 @@
+.big-margin {
+  margin-top: 150px;
+}
+
+.color-change {
+  color: #fff; 
+}
+
+.color-change:hover {
+  color: #fff;
+}
